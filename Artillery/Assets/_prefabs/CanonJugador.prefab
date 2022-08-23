@@ -367,7 +367,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abbb1e9b934cb3e4a8e37df3167c928d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  clipDisparo: {fileID: 0}
   BalaPrefab: {fileID: 5709528901978164126, guid: 79e3d55fffed97649a2e4c987180c19d, type: 3}
+  ParticulasDisparo: {fileID: 6357767839450858757, guid: b0ee087e3b415d547a58154eaaf8315d, type: 3}
 --- !u!1 &9014074124147696328
 GameObject:
   m_ObjectHideFlags: 0

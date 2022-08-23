@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637943977109352937
-    m_Hash: 3302088076
+      ticks: 637945409581337384
+    m_Hash: 2110738759
   m_LockFileStatus:
     m_FilePath: C:/Repos/Artillery/Artillery/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637943977109518585
-    m_Hash: 3019840604
+      ticks: 637945409581337384
+    m_Hash: 4227921394
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:

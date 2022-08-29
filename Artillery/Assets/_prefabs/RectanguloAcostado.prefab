@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 3071452729073346110}
   - component: {fileID: 3071452729073346111}
   - component: {fileID: 3071452729073346107}
+  - component: {fileID: 2603338022179055577}
   m_Layer: 0
   m_Name: RectanguloAcostado
-  m_TagString: Untagged
+  m_TagString: Obstaculo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110,5 +111,17 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 8
+  m_Constraints: 72
   m_CollisionDetection: 0
+--- !u!114 &2603338022179055577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3071452729073346096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bc0eb435f280b54294940254908a4ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
